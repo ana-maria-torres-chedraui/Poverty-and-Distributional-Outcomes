@@ -1,10 +1,3 @@
-*Dofile elaborated by:
-
-Clarissa Bruns, i6238772
-Bram van Heteren, i6136380
-Mohamed Sheikh,
-Ana Maria Torres Chedraui, i6256049
-
 
 ***2011-2012 Data***
 pwd 
